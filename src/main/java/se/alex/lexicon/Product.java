@@ -11,7 +11,7 @@ public class Product {
         this.stock = stock;
     }
 
-    // Getters and setters
+
     public String getProductName() {
         return productName;
     }
